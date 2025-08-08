@@ -23,10 +23,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MicaelliSilva}/count.svg" /></p> 
-<br></div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D100D1&height=120&section=footer"/>
