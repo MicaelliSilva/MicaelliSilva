@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Micaelli+Silva;I'm+a+Developer+and+System+of+Information+student;Be+Welcome!+😊)](https://git.io/typing-svg) 
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MicaelliSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelliSilva&layout=compact&langs_count=8&theme=radical"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MicaelliSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelliSilva&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MicaelliSilva&bg_color=000000&color=FF00FF&line=7308EF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
