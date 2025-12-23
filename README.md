@@ -23,7 +23,4 @@
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D100D1&height=120&section=footer"/>
